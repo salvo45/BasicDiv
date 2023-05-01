@@ -1,0 +1,17 @@
+{
+  "div1": {
+    "id": "myFirstDiv",
+    "class": "red",
+    "innerHTML": "This is the first div"
+  },
+  "div2": {
+    "id": "mySecondDiv",
+    "class": "green",
+    "innerHTML": "This is the second div"
+  },
+  "div3": {
+    "id": "myThirdDiv",
+    "class": "blue",
+    "innerHTML": "This is the third div"
+  }
+}
